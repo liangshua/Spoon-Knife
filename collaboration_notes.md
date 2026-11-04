@@ -1,2 +1,2 @@
 # Fork Collaboration Practice
-This file documents a GitHub fork and pull request review exercise.
+This document covers GitHub Fork, Clone, upstream synchronization, and Pull Request Review.
